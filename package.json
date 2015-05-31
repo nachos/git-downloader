@@ -1,0 +1,34 @@
+{
+  "name": "git-downloader",
+  "version": "1.0.0",
+  "description": "A tool to download packages from a git repository",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nachos/git-downloader.git"
+  },
+  "keywords": [
+    "git",
+    "download",
+    "repo",
+    "repository",
+    "tar"
+  ],
+  "author": "Nachos team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nachos/git-downloader/issues"
+  },
+  "homepage": "https://github.com/nachos/git-downloader",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.11.0",
+    "jshint-stylish": "^2.0.0"
+  },
+  "dependencies": {
+    "tar": "^2.1.1"
+  }
+}
