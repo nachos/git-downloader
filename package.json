@@ -29,6 +29,6 @@
     "jshint-stylish": "^2.0.0"
   },
   "dependencies": {
-    "tar": "^2.1.1"
+    "rimraf": "^2.3.4"
   }
 }
