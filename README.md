@@ -75,5 +75,3 @@ $ npm test
 ## License
 
 [MIT](LICENSE)
-
-<sub><sup>*we never go out of style*</sup></sub>
